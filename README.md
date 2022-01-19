@@ -1,6 +1,16 @@
 # PHP
 This repository is to hold projects for the course MIUN DT093G Datateknik GR (B), Webbutveckling II PHP.
 
+## Clone Terminal Command Prompt
+The clone command looks like this:
+
+     $ git clone <source link> <destination address>   
+
+To clone this specific repository use the below command prompt just change the destination
+
+     $ git clone https://github.com/nataliefrick/php.git <destination address>   
+
+
 ## About the Course
 This course aims to teach the programming language PHP, with the use of database connections to create websites with dynamic content.
 
